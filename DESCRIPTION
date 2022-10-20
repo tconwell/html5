@@ -9,7 +9,7 @@ Description: Generates valid HTML tag strings for HTML5 elements documented by M
     Attribute values are automatically double-quoted. To declare a DOCTYPE, wrap html() with function doctype().
     Mozilla's documentation for HTML5 is available here: <https://developer.mozilla.org/en-US/docs/Web/HTML/Element>.
     Elements marked as obsolete are not included. 
-License: GPL (>=2)
+License: GPL (>= 3)
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.2.0
